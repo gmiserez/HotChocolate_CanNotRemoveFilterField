@@ -39,3 +39,8 @@ To get the expected result I tried doing the following:
 **Expected behavior**
 
 Since the flters on CountryCode are to be bound explicitly and I did not declare any filter on this property I expect to have no filters generated for this property. 
+
+
+**Obtained behavior**
+
+The filters are still generated.
